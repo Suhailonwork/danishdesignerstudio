@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="90" viewBox="0 0 300 90" fill="none" role="img" aria-label="Danish Designer Studio">
+  <g stroke="#0e0e0f" stroke-width="1.3" fill="none">
+    <path d="M138 13 L150 6 L162 13 L158 21 L142 21 Z"/>
+    <path d="M150 6 L150 21"/>
+    <path d="M144 24 L150 32 L156 24"/>
+  </g>
+  <text x="150" y="58" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" letter-spacing="1" fill="#0e0e0f">Danish</text>
+  <text x="150" y="76" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" letter-spacing="4.6" fill="#0e0e0f">DESIGNER STUDIO</text>
+</svg>
